@@ -1,0 +1,15 @@
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\bin\Debug\net6.0\Code along.exe
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\bin\Debug\net6.0\Code along.deps.json
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\bin\Debug\net6.0\Code along.runtimeconfig.json
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\bin\Debug\net6.0\Code along.dll
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\bin\Debug\net6.0\Code along.pdb
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\Code along.csproj.AssemblyReference.cache
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\Code along.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\Code along.AssemblyInfoInputs.cache
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\Code along.AssemblyInfo.cs
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\Code along.csproj.CoreCompileInputs.cache
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\Code along.dll
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\refint\Code along.dll
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\Code along.pdb
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\Code along.genruntimeconfig.cache
+C:\Users\Denni\Desktop\Visual studio\Code along\Code along\obj\Debug\net6.0\ref\Code along.dll
