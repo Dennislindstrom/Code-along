@@ -21,13 +21,14 @@ List<string> shoppingCart = new() {""};
 WelcomeUserToStore();                                             // Skriv metoden för att kalla. 
 PrintAvailableProducts();
 PrintshoppingCart();
+AskForInput();
 
 
 
 
 // Att ta bort availableProducts.RemoveAt(5); 
 //----------------------------------METHODS-----------------------------
-void WelcomeUserToStore()                                //Rad 18-20 beskriver metoden. 
+void WelcomeUserToStore()
 {
     Console.WriteLine("-------------------------");
     Console.WriteLine($"WELCOME TO THE STORE");
@@ -56,4 +57,17 @@ void PrintshoppingCart()
     {
         Console.WriteLine(productInShoppingcart);
     }
+}
+
+string AskForInput()
+{
+    Console.WriteLine();
+    Console.WriteLine("What do you want to buy? ");
+    Console.WriteLine();
+
+    Console.WriteLine("reply:");
+    string input = Console.ReadLine();
+
+    return input;
+
 }
