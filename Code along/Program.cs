@@ -21,9 +21,9 @@ List<string> shoppingCart = new() {""};
 WelcomeUserToStore();                                             // Skriv metoden för att kalla. 
 PrintAvailableProducts();
 PrintshoppingCart();
-AskForInput();
-
-
+string response = AskForInput();
+CheckAvailability(response);
+bool isAvailable = CheckAvailability(response);
 
 
 // Att ta bort availableProducts.RemoveAt(5); 
@@ -70,4 +70,18 @@ string AskForInput()
 
     return input;
 
+}
+bool CheckAvailability(string productToCheck)
+{
+    bool isAvailable = false;
+
+    foreach (string availableProduct in availableProducts)
+    {
+        if (availableProduct == productToCheck)
+        {
+            isAvailable = true;
+        }
+    }
+
+    return isAvailable; 
 }
